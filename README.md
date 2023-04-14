@@ -1,8 +1,14 @@
 # Proyecto-HTML
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Descripcion del Proyecto:
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 --Proyecto HTML5 y CCS
 
 --El proyecto consiste en realizar una web sobre alguna temática que te interese.
-
 
 --El primer paso será elegir el contenido que quiere mostrar en ella.
 
@@ -35,3 +41,15 @@
 --Debe existir un formulario que envíe los datos
 
 --Todas las páginas deben tener un favicon.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Plantilla usada:
+
+-- https://www.free-css.com/free-css-templates/page287/covido
+
+# Tematica
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-- La tematica de mi pagina web esta basada en las noticias, no hay una razon especifica para esta tematica, el uso de nombres en la pagina web y imagenes es totalmente sin copyright, excepto la plantilla.
